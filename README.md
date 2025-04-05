@@ -1,6 +1,7 @@
-# Databricks Studies
+# Databricks Study Notes
 
-Este repositório contém resumos e anotações estruturadas relacionadas aos meus estudos sobre Databricks, uma plataforma unificada de análise e processamento de dados baseada no Apache Spark. Aqui estão documentados os conceitos fundamentais, boas práticas, e aplicações práticas da ferramenta, bem como esclarecimentos sobre termos e processos essenciais para a utilização eficaz do Databricks em projetos de ciência e engenharia de dados.
+This repository contains structured summaries and notes related to my studies on Databricks, a unified analytics and data processing platform built upon Apache Spark. It documents essential concepts, best practices, and practical applications of Databricks, alongside clarifications on key terminologies and workflows needed for effective use of the platform in data science and data engineering projects.
 
-O objetivo é registrar, organizar e validar o aprendizado adquirido durante meus estudos, garantindo clareza, correção e completude das informações. Cada seção será revisada e corrigida periodicamente, com o intuito de manter o conteúdo atualizado e relevante, facilitando consultas futuras e auxiliando no desenvolvimento profissional na área de dados.
+The main objective of this repository is to organize, verify, and consolidate my learning progress, ensuring that all information is accurate, clear, and comprehensive. Each section will be periodically reviewed and updated to maintain relevance and facilitate easy reference, supporting my professional development in the data field.
+
 
